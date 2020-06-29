@@ -1,8 +1,8 @@
 # Ignore the Scratch project
 pset0/
-# Ignores images
+# Ignore images
 **/images/
-# Ignores vscode folder
+# Ignore vscode folder
 .vscode/
-# Ignores CS50 library (cs50.h and cs50.c)
+# Ignore CS50 library (cs50.h and cs50.c)
 libcs50-10.1.0/ 
