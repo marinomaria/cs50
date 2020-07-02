@@ -46,5 +46,6 @@ int main(int argc, char *argv[])
         memset(buf, 0, sizeof(buf));
     }
 
+    free(filename);
     fclose(file);
 }
